@@ -11,19 +11,19 @@ Tuber Ruler accesses certain data on your device to function properly. However, 
 
 ## 3. Permissions
 
-To provide you with accurate measurements and a smooth user experience, Tuber Ruler requests the following permissions:
+To provide you with accurate measurements and a smooth user experience, Tuber Ruler requires the following permissions:
 
 - **Camera**: Allows the app to capture images of potato tubers for measurement.
-- **Photos/Media/Files**: Allows the app to access your photo library to select existing images of potato tubers for measurement.
-- **Storage**: Allows the app to save and retrieve measurement results on your device.
+- **Storage**: Used to save measurement results within the app's internal storage, and access user-selected images of potato tubers for measurement.
 
-## 4. Data Sharing
+## 4. Data Sharing and Storage
 
-We do not share your data with any third parties. All data processing is performed locally on your device, ensuring your data remains private and secure.
+- **No Data Sharing**: We do not collect, share, or transmit user data to third parties. All data processing is performed locally on your device, ensuring your data remains private and secure.
+- **Data Storage**: Measurement results are saved within the app's internal storage. This data is not accessible to other apps or services.
 
 ## 5. User Rights
 
-As all data is processed locally on your device, you have full control over your data.
+As all data is processed locally on your device, you have full control over your data. Additionally, you have control over which images you share with the app through the image selection process.
 
 ## 6. Data Security
 
