@@ -14,7 +14,7 @@ Tuber Ruler accesses certain data on your device to function properly. However, 
 To provide you with accurate measurements and a smooth user experience, Tuber Ruler requests the following permissions:
 
 - **Camera**: Allows the app to capture images of potato tubers for measurement.
-- 
+
 We respect your privacy and only request the permissions necessary for the app's functionality.
 
 ## 4. Data Sharing and Storage
